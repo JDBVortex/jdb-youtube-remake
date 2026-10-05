@@ -12,7 +12,7 @@ Although it is not a functional replacement for YouTube, the project allowed me 
 
 # Link to Website
 
-[View YouTube Clone](https://jdbvortex.github.io/djd-digital-media-sba/)
+[View YouTube Clone](https://jdbvortex.github.io/jdb-test-webite/)
 
 # Project Overview
 
